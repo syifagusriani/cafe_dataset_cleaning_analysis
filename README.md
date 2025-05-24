@@ -24,7 +24,7 @@ Proyek ini mencakup **pembersihan data** dan **analisis** terhadap dataset trans
 - Total pendapatan tahunan: **\$84,868.50**.  
 - **Bulan tertinggi**: Juni, Oktober, Januari.  
 - **Bulan terendah**: Februari, September, Juli.  
-- Pola **zigzag**: Penurunan Maret-Mei → Naik di Juni.  
+- Pola **fluktuatif**: Penurunan Maret-Mei → Naik di Juni.  
 
 ### 2. **Produk Unggulan**  
 - **Terlaris (kuantitas)**:  
