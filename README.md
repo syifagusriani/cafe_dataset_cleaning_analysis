@@ -53,8 +53,8 @@ Proyek ini mencakup **pembersihan data** dan **analisis** terhadap dataset trans
   - Sama seperti kolom payment, untuk analisis mengenai metode pembayaran, tidak dapat disimpulkan mengingat banyaknya data hilang dan tidak dapat diperbaiki sembarangan, juga tidak terlihat pola dari kolom lain.
   
 ### 5. **Korelasi Harga-Penjualan**  
-- **Korelasi negatif lemah (r = -0.17)**: Penjualan cenderung turun saat harga naik.  
-- **Pengecualian**: Salad tetap laris meski harga tinggi.  
+- **Korelasi negatif lemah (r = -0.17)**: Penjualan cenderung turun saat harga naik, tapi tidak berdampak bersar.  
+- Salah satu contohnya: Salad tetap laris meski harga tinggi.  
 
 ---
 
